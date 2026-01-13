@@ -8,6 +8,8 @@ wheels/
 *.parquet
 .idea*
 .DS_Store
+.ipynb_checkpoints/
+ny_taxi_postgres_data/
 
 # Virtual environments
 .venv
